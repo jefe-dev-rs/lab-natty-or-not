@@ -19,24 +19,83 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🎥 Projeto Final – Nexa | IA Generativa com Bedrock (DIO)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto foi desenvolvido como entrega final do curso **Nexa – Fundamentos de IA Generativa com Amazon Bedrock**, da Digital Innovation One (DIO).  
+
+Como proposta, criei um **vídeo narrativo** utilizando IA generativa, explicando de forma clara e acessível:
+
+- O que é IA Generativa  
+- Como a IA está transformando a Educação  
+- O papel da DIO na formação de profissionais para o futuro  
+
+O objetivo foi demonstrar na prática como ferramentas de IA podem ser usadas para **comunicação, educação e criação de conteúdo audiovisual**.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+
+### **IAs Generativas**
+- **HeyGen** → geração do vídeo com avatar digital  
+- **Modelos de IA para roteirização** (ChatGPT) → criação do texto-base da narrativa  
+- **Amazon Bedrock** (conceitos do curso) → fundamentos aplicados no processo criativo  
+
+### **Outras Ferramentas**
+- Editor de texto (VS Code / Markdown)  
+- Plataformas de apoio da DIO  
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+
+1. **Pesquisa e definição do tema:**  
+   Escolhi abordar os pilares estudados no curso: IA Generativa, uso da IA na Educação e o impacto da DIO na formação tecnológica.
+
+2. **Criação do roteiro:**  
+   Desenvolvi um texto claro, objetivo e acessível explicando os conceitos e fazendo ligação direta com a proposta do curso.
+
+3. **Geração do vídeo na HeyGen:**  
+   - Carreguei o roteiro  
+   - Escolhi um avatar e voz  
+   - Ajustei entonação, ritmo e estilo  
+   - Renderizei o vídeo final  
+
+4. **Revisão e ajustes:**  
+   Avaliei a fluidez, clareza da mensagem e a naturalidade da entrega.
+
+---
+
+## 🎬 Vídeo do Projeto
+
+[▶️ **Assista ao vídeo no YouTube**](https://youtube.com/shorts/MHzdDmIADHg?feature=share)
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+O resultado final foi um **vídeo didático e visualmente profissional**, capaz de:
+
+- Explicar IA Generativa de forma simples  
+- Demonstrar aplicações reais da IA na Educação  
+- Evidenciar o propósito da DIO na democratização do conhecimento  
+- Mostrar como IA generativa pode criar conteúdos de alta qualidade com rapidez  
+
+Este projeto resume a evolução obtida no curso e consolida o uso prático de ferramentas de IA.
+
+---
+
+## 💭 Reflexão
+Criar conteúdo “natty” com IA é sempre um desafio interessante.  
+Mesmo sendo uma tecnologia poderosa, ela exige:
+
+- Clareza na intenção  
+- Criatividade na construção  
+- Curadoria humana para dar personalidade  
+- Revisões para parecer natural e autêntico  
+
+O projeto reforçou que **IA não substitui a mente humana, mas potencializa** o que conseguimos criar — especialmente na Educação.
+
+---
 
 ### Exemplos e Insigths
 
